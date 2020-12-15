@@ -1,0 +1,19 @@
+.text-red {
+  color: red;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.font-30 {
+  font-size: 30px;
+}
