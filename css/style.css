@@ -10,10 +10,42 @@
   text-align: center;
 }
 
+.text-left {
+  text-align: left;
+}
+
 .text-bold {
   font-weight: bold;
 }
 
 .font-30 {
   font-size: 30px;
+}
+
+.font-50 {
+  font-size: 50px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.marg-top-100 {
+  margin-top: 100px;
+}
+
+.marg-rig-150 {
+  margin-right: 150px;
+}
+
+.display-none {
+  display: none;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.vertical-middle {
+  vertical-align: middle;
 }
